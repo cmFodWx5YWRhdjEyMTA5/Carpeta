@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">DC3Scanner</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Iniciar sesion</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_certification">Certificaciones</string>
+    <string name="nombreCertificacion">Curso: </string>
+    <string name="duracion">duracion(hrs): </string>
+    <string name="periodo">Fecha vencimiento:</string>
+    <string name="tema">"Area tematica: "</string>
+    <string name="capacitador">"Capacitador: "</string>
+    <string name="registro">Registro:</string>
+    <string name="empty">***********</string>
+    <string name="lista_criticos">Ver criticos</string>
+    <string name="permiso_trabajo">Registrar permiso trabajo</string>
+    <string name="sancion">sanciones</string>
+
+</resources>

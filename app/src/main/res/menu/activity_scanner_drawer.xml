@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Escanear codigo" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Compañias" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Permisos activos" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:visible="true"
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Privacy policy" />
+            <item
+                android:visible="true"
+                android:id="@+id/web_app"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Web app" />
+            <item
+                android:visible="true"
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="cerrar sesion" />
+        </menu>
+    </item>
+
+</menu>

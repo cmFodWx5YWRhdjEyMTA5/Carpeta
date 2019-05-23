@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"  >
+    <item
+        android:id="@+id/crear_permiso"
+        android:orderInCategory="100"
+        android:title="@string/permiso_trabajo"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sanciones_profile"
+        android:orderInCategory="100"
+        android:title="@string/sancion"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/subir_foto"
+        android:orderInCategory="100"
+        android:title="Tomar foto perfil"
+        app:showAsAction="never" />
+</menu>

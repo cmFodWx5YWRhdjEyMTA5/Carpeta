@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/camera_previous"
+        android:icon="@android:drawable/ic_media_previous"
+        android:title="regresar"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/camera_foto"
+        android:title="tomar foto"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/single_foto"
+        android:title="adjuntar.."
+        app:showAsAction="never" />
+
+</menu>

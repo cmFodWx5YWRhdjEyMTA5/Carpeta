@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/photo_register_permission"
+        android:orderInCategory="100"
+        android:title="Imagenes"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/enviar_permiso"
+        android:orderInCategory="100"
+        android:title="enviar"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/map_plant"
+        android:orderInCategory="100"
+        android:title="mapa"
+        app:showAsAction="never" />
+</menu>
